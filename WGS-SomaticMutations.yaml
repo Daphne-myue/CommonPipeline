@@ -1,0 +1,11 @@
+wkdir: "/path/to/working_directory"
+reference: "/home/reference/hg38/Homo_sapiens_assembly38.fasta"
+
+samples:
+  sample1:
+    - "/path/to/fastq/sample1_R1.fastq.gz"
+    - "/path/to/fastq/sample1_R2.fastq.gz"
+  sample2:
+    - "/path/to/fastq/sample2_R1.fastq.gz"
+    - "/path/to/fastq/sample2_R2.fastq.gz"
+
